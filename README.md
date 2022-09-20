@@ -9,3 +9,4 @@ Suyapa Judith Rodríguez Pérez 24150
 Laura Sofía Mérida Arellano 24268
 Takarly Fabiola Salinas Nazar 24262
 Melvin David Rivera Monterroso 24036
+Aidan Villanueva 24075
