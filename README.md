@@ -8,3 +8,4 @@ Se usará como fuente de datos los resultados de las encuestas de google formula
 Suyapa Judith Rodríguez Pérez 24150
 Laura Sofía Mérida Arellano 24268
 Takarly Fabiola Salinas Nazar 24262
+Melvin David Rivera Monterroso 24036
